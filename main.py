@@ -1,7 +1,7 @@
 import pdb
 
 questions = {}
-pdb.set_trace()
 mail = "ADDRESS"
 text = "QUEST"
+pdb.set_trace()
 questions[mail] = text
